@@ -1,0 +1,5 @@
+{
+  "name": "Indian Exam Planner AI",
+  "description": "An AI-powered exam planner to help Indian students prepare for government entrance exams. It provides personalized study routines, syllabus links, and revision strategies based on user inputs.",
+  "requestFramePermissions": []
+}
